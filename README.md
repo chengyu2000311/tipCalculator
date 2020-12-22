@@ -1,4 +1,4 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator*
 
 **Tip Calculator** is a tip calculator application for iOS.
 
@@ -34,7 +34,7 @@ GIF created with [GifCapture](https://github.com/onmyway133/GifCapture?ref=produ
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Good to Have features is difficult for me to follow
 
 ## License
 
