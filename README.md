@@ -30,8 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [GifCapture] https://github.com/onmyway133/GifCapture?ref=producthunt
-[LiceCap](http://www.cockos.com/licecap/) doesn't work for BigSur.
+GIF created with [GifCapture](https://github.com/onmyway133/GifCapture?ref=producthunt), since [LiceCap](http://www.cockos.com/licecap/) doesn't work for BigSur.
 
 ## Notes
 

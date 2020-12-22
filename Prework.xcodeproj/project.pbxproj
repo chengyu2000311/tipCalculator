@@ -15,6 +15,7 @@
 		F00369DD25919B6F00539F12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F00369DB25919B6F00539F12 /* LaunchScreen.storyboard */; };
 		F00369E825919B7000539F12 /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00369E725919B7000539F12 /* PreworkTests.swift */; };
 		F00369F325919B7000539F12 /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F00369F225919B7000539F12 /* PreworkUITests.swift */; };
+		F0036A1D2591BD0700539F12 /* walkThroughVideo.gif in Resources */ = {isa = PBXBuildFile; fileRef = F0036A1C2591BD0700539F12 /* walkThroughVideo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		F00369F225919B7000539F12 /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		F00369F425919B7000539F12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F0036A032591B12D00539F12 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F0036A1C2591BD0700539F12 /* walkThroughVideo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = walkThroughVideo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				F0036A032591B12D00539F12 /* README.md */,
+				F0036A1C2591BD0700539F12 /* walkThroughVideo.gif */,
 				F00369CF25919B6D00539F12 /* Prework */,
 				F00369E625919B7000539F12 /* PreworkTests */,
 				F00369F125919B7000539F12 /* PreworkUITests */,
@@ -236,6 +239,7 @@
 				F00369DD25919B6F00539F12 /* LaunchScreen.storyboard in Resources */,
 				F00369DA25919B6F00539F12 /* Assets.xcassets in Resources */,
 				F00369D825919B6D00539F12 /* Main.storyboard in Resources */,
+				F0036A1D2591BD0700539F12 /* walkThroughVideo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
