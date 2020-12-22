@@ -49,6 +49,7 @@
 		F00369EE25919B7000539F12 /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F00369F225919B7000539F12 /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		F00369F425919B7000539F12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0036A032591B12D00539F12 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		F00369C425919B6C00539F12 = {
 			isa = PBXGroup;
 			children = (
+				F0036A032591B12D00539F12 /* README.md */,
 				F00369CF25919B6D00539F12 /* Prework */,
 				F00369E625919B7000539F12 /* PreworkTests */,
 				F00369F125919B7000539F12 /* PreworkUITests */,
